@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Abu Zidan Aghniya AZIZ!
+### I’m an Informatics student at STIKOM El Rahma with a strong passion for web development and data.
 
 <!--
 **aghniyaaziz/aghniyaaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
